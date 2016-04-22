@@ -2,7 +2,7 @@
 
 用node写的一个小程序
 可以链接到mysql数据库，然后将查询的结果发送邮件
-
+添加对同步的支持
 a small pragrame,writed using node 
 
 functions below:
